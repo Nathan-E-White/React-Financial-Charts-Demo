@@ -1,3 +1,15 @@
+# Repo Readme
+
+To get started with this repo, clone it, install the dependencies with yarn or npm, then use the build and run scripts listed below.
+
+Right now only a basic candlestick chart is developed, and it doesn't look _that_ great...
+
+For some better examples of what this library can do, please see:
+
+https://react-financial.github.io/react-financial-charts/?path=/story/intro--page
+
+I'm making this demo for my own knowledge, and since at the moment, react-financial-charts doesn't have easy to follow examples that I know about (they might be out there and I just haven't seen 'em yet...), maybe someone else will eventually be able to look at this and find it useful or whatever. YMMV.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
